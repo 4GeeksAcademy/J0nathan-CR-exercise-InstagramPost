@@ -1,0 +1,46 @@
+.post-header {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.icon-header {
+    display: flex;
+    align-items: center;
+}
+
+.fa-brands {
+    margin-left: 10px;
+    margin-right: 5px;
+    font-size: 25px;
+}
+
+.post {
+    width: 400px;
+    border: 1px solid black;
+}
+
+.fa-solid {
+    font-size: 25px;
+    margin-right: 10px;
+    margin-top: 5px;
+}
+
+.post-icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.icon-bottom {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.bookmark {
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.post-body {
+    padding: 10px;
+}
